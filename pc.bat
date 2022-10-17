@@ -1,0 +1,1 @@
+curl "http://172.17.1.2/drcom/login?callback=dr1637464149337&DDDDD=账号&upass=密码&0MKKey=123456&R1=0&R3=1&R6=0&para=00&v6ip=&_=1637464132399"
